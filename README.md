@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sapna546/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna546/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sapna546/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/sapna546/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sapna546/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
