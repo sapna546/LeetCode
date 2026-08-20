@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna546/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/sapna546/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/sapna546/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sapna546/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
