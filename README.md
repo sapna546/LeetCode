@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Knapsack Problem
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sapna546/LeetCode/tree/master/0046-permutations) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
