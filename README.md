@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/sapna546/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sapna546/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sapna546/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
