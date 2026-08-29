@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sapna546/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sapna546/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sapna546/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sapna546/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
