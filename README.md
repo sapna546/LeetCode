@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sapna546/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sapna546/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/sapna546/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sapna546/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sapna546/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sapna546/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sapna546/LeetCode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sapna546/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/sapna546/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sapna546/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/sapna546/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
