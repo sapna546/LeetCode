@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sapna546/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sapna546/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sapna546/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sapna546/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sapna546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sapna546/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sapna546/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sapna546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/sapna546/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sapna546/LeetCode/tree/master/0283-move-zeroes) |
 ## String
@@ -162,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sapna546/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sapna546/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sapna546/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sapna546/LeetCode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sapna546/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sapna546/LeetCode/tree/master/0075-sort-colors) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sapna546/LeetCode/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sapna546/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
