@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sapna546/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/sapna546/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sapna546/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/sapna546/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sapna546/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/sapna546/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
