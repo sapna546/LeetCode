@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sapna546/LeetCode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sapna546/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sapna546/LeetCode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sapna546/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
