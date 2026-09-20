@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sapna546/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Graph Theory
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sapna546/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sapna546/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sapna546/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sapna546/LeetCode/tree/master/0169-majority-element) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sapna546/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sapna546/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
