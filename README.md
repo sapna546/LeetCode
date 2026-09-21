@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sapna546/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [3524-find-x-value-of-array-i](https://github.com/sapna546/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/sapna546/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [3524-find-x-value-of-array-i](https://github.com/sapna546/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sapna546/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sapna546/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
+| [3524-find-x-value-of-array-i](https://github.com/sapna546/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
 |  |
