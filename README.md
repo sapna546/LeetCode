@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sapna546/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sapna546/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sapna546/LeetCode/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/sapna546/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sapna546/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sapna546/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sapna546/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
