@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sapna546/LeetCode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
+| [1306-jump-game-iii](https://github.com/sapna546/LeetCode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sapna546/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/sapna546/LeetCode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/sapna546/LeetCode/tree/master/0684-redundant-connection) |
+| [1306-jump-game-iii](https://github.com/sapna546/LeetCode/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Graph Theory
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sapna546/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sapna546/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/sapna546/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1306-jump-game-iii](https://github.com/sapna546/LeetCode/tree/master/1306-jump-game-iii) |
 | [3524-find-x-value-of-array-i](https://github.com/sapna546/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sapna546/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
